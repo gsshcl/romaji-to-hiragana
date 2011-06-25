@@ -1,0 +1,10 @@
+html{background:#ffe6cc;}
+body {font-size:14px;line-height:150%;font-family:"Lucida Grande",Tahoma,Arial,Helvetica,sans-serif,"Hiragino Sans GB";}
+#content{width:400px;margin:100px auto;padding:30px;background:#fff;border-radius:10px 10px;-moz-border-radius:10px 10px;-webkit-border-radius:10px 10px;}
+h1{font-weight:bold;color:#c66;font-size:2em;text-align:center;text-shadow:1px 1px 0 #ddd;margin:0 0 10px 0;}
+#inputValue{padding:5px;border:1px solid #ccc;border-radius:5px 5px;-moz-border-radius:5px 5px;-webkit-border-radius:5px 5px;width:388px;margin:10px 0;}
+h4{color:#ffb3b3;font-size:1em;font-weight:bold;padding:0 0 10px 0;text-shadow:1px 1px 0 #fff;}
+#hiragana-result{padding:10px;background-color:#ffc;min-height:21px;margin:10px 0;}
+#about{border-top:1px solid #ccc;margin:20px 0 0 0;text-align:right;font-size:0.8em;}
+#about a{color:#aaa;text-decoration:none;-webkit-transition: all 0.5s ease-in-out; -moz-transition: color 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out;}
+#about a:hover{color:#c66;-webkit-transition: all 0.5s ease-in-out; -moz-transition: color 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out;}
